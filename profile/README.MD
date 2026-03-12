@@ -2,7 +2,7 @@
 
 ## A Neuro-Symbolic Protocol for N-Dimensional AGI Governance
 
-### Abstract: This paper introduces the Quantified Ontological Reasoning Language (QORLANG), a formal framework designed to replace the 1D probability scalars of current Transformer models with 6D state vectors. QORLANG provides the mathematical infrastructure for verifiable, ethical, and self-correcting machine intelligence.
+### This paper introduces the Quantified Ontological Reasoning Language (QORLANG), a formal framework designed to replace the 1D probability scalars of current Transformer models with 6D state vectors. QORLANG provides the mathematical infrastructure for verifiable, ethical, and self-correcting machine intelligence.
 
 ## Transitioning from Connectionist Transformers to Multi-Dimensional AGI
 
